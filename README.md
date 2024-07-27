@@ -4,7 +4,7 @@ Projects
 1. Random Number Guessing Game (RandomNum.java)
 This program allows the user to guess a randomly generated number within a specified range. It provides feedback to help the user narrow down the correct number and keeps track of the number of attempts.
 
-2. Student Grade Calculator (Student_Grade_Calculator.java)
+2. Student Grade Calculator (StudentGradeCalculator.java)
 The Student Grade Calculator program calculates the percentage and grade based on the marks entered by the user. It provides a simple interface for inputting marks and outputs the corresponding grade according to standard grading criteria.
 
 3. Currency Converter (Currency_converter)
